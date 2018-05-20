@@ -1,0 +1,6 @@
+D:\Документы\Git\Auto\Auto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Документы\Git\Auto\Auto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Документы\Git\Auto\Auto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Документы\Git\Auto\Auto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Документы\Git\Auto\Auto.Web\bin\roslyn\System.IO.Compression.dll
+D:\Документы\Git\Auto\Auto.Web\bin\roslyn\VBCSCompiler.exe
