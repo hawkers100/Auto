@@ -1,0 +1,29 @@
+﻿body {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.dl-horizontal dt {
+    white-space: normal;
+}
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+ng-cloak {
+    display: none !important;
+}
+h1 {
+    text-align: center;
+    padding: 0 0 20px 0;
+}
+.validation-error {
+    color: #a94442;
+}
+.loader {
+    text-align: center;
+}
