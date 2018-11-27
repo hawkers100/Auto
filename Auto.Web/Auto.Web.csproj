@@ -245,14 +245,6 @@
       <Project>{54838196-1811-4723-A1B9-0A77993812EC}</Project>
       <Name>Auto.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Auto.Data\Auto.Data.csproj">
-      <Project>{D073B995-5765-400A-8F9E-5E0CC499508F}</Project>
-      <Name>Auto.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Auto.Tools\Auto.Tools.csproj">
-      <Project>{C6153A9B-D779-4326-9DD9-14DA22BCB959}</Project>
-      <Name>Auto.Tools</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
